@@ -8,14 +8,16 @@ import "./Footer.css";
 
 const Footer = () => (
     <footer className="footer">
-        <Container>
-            <Row className="text-center py-5">
-                <Col xs={12} lg={6} className="text-lg-left mb-3">
-                    <p className="logo">Dashboard Projects</p>
-                    <b>Developer by: Helton Cunha</b>
+        <Container className="footer-container">
+            <Row className="text-center py-2">
+                <Col xs={12} lg={6} className="text-lg-left mt-2">
+                    <p className="footer-text">
+                        Netflix - streaming developed to train knowledge. | Developer by:
+                        Helton Cunha
+                    </p>
                 </Col>
 
-                <Col xs={12} lg={4} className="py-xs-5 mb-3">
+                <Col xs={12} lg={4} className="py-xs-5">
                     <Image src={applestore} />
                     <Image src={googleplay} className="m-2" />
                 </Col>

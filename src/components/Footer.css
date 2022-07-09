@@ -1,19 +1,8 @@
 .footer {
-    border-bottom: 0.2rem solid;
     color: white;
     background-color: black;
 }
 
-.py-xs-5 {
-    margin: 3rem 0;
-
-    @media screen and (min-width: 992px) {
-        margin: 0;
-    }
-}
-
-.logo {
-    font-size: x-large;
-    font-weight: 700;
-    color: white;
+.footer-text {
+    font-size: x-small;
 }
