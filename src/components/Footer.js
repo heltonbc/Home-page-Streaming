@@ -12,8 +12,9 @@ const Footer = () => (
             <Row className="text-center py-2">
                 <Col xs={12} lg={6} className="text-lg-left mt-2">
                     <p className="footer-text">
-                        Netflix - streaming developed to train knowledge. | Developer by:
-                        Helton Cunha
+                        | Netflix | todos os direitos reservados a Netflix - streaming
+                        developed to train knowledge, non-profit. | Developer by: Helton
+                        Cunha
                     </p>
                 </Col>
 
