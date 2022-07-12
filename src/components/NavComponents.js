@@ -1,12 +1,5 @@
 import React from "react";
-import {
-    Navbar,
-    Nav,
-    Container,
-    ButtonGroup,
-    Button,
-    NavDropdown,
-} from "react-bootstrap";
+import { Navbar, Nav, Container, Button, Form } from "react-bootstrap";
 import "./NavComponents.css";
 import logo from "../assets/logo-netflix.svg";
 
@@ -31,21 +24,14 @@ const NavComponents = ({ handleCreatAcc }) => (
                     <Nav.Link href="#minhalista">Minha Lista</Nav.Link>
                 </Nav>
 
-                <ButtonGroup aria-label="Basic example">
-                    <Button variant="outline-light">
-                        <NavDropdown title="Acessar Minha Conta" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="#action/3.1">
-                                Pessoa Física
-                            </NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.2">
-                                Pessoa Jurídica
-                            </NavDropdown.Item>
-                        </NavDropdown>
-                    </Button>
-                    <Button variant="outline-light" onClick={handleCreatAcc}>
-                        Abra sua Conta
-                    </Button>
-                </ButtonGroup>
+                <Form className="d-flex">
+                    <Form.Control
+                        type="search"
+                        placeholder="Título, gente e gêneros"
+                        className="me-2"
+                        aria-label="Search"
+                    />
+                </Form>
             </Navbar.Collapse>
         </Container>
     </Navbar>
