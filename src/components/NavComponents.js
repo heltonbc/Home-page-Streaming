@@ -27,7 +27,7 @@ const NavComponents = ({ handleCreatAcc }) => (
                 <Form className="d-flex">
                     <Form.Control
                         type="search"
-                        placeholder="Título, gente e gêneros"
+                        placeholder="Título, Gente e Gêneros"
                         className="me-2"
                         aria-label="Search"
                     />
