@@ -47,11 +47,6 @@ function App() {
                     <div className="card">
                         <div className="card-top">
                             <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
                         </div>
                         <div className="card-bottom"></div>
                     </div>
