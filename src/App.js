@@ -1,64 +1,28 @@
 import React from "react";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+import NavComponents from "./components/NavComponents";
 
-import "./App.css";
-import datafilms from "./components/data.js";
+import OnHigh from "./films_Category/OnHigh";
+import Action from "./films_Category/Action";
+import Comedy from "./films_Category/Comedy";
+import Horror from "./films_Category/Horror";
+import Romance from "./films_Category/Romance";
+import Thriller from "./films_Category/Thriller";
 
-function App() {
-    const settings = {
-        dots: false,
-        infinite: false,
-        speed: 500,
-        slidesToShow: 4,
-        slidesToScroll: 4,
-        initialSlide: 0,
-        responsive: [
-            {
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 3,
-                },
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2,
-                    initialSlide: 2,
-                },
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                },
-            },
-        ],
-    };
+import Footer from "./components/Footer";
 
+const App = () => {
     return (
-        <div className="App">
-            <Slider {...settings}>
-                {datafilms.map(item => (
-                    <div className="card">
-                        <div className="card-top">
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                            <img src={item.img} alt={item.exemple} />
-                        </div>
-                        <div className="card-bottom"></div>
-                    </div>
-                ))}
-            </Slider>
-        </div>
+        <>
+            <NavComponents />
+            <OnHigh />
+            <Action />
+            <Comedy />
+            <Horror />
+            <Romance />
+            <Thriller />
+            <Footer />
+        </>
     );
-}
+};
 
 export default App;

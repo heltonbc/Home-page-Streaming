@@ -13,7 +13,7 @@
 }
 
 .slick-slide > div {
-    margin: 0 2px;
+    /* margin: 0 2px; */
 }
 .slick-list {
     margin: 0 -10px;
@@ -34,4 +34,8 @@ div.card-top > img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.title-category {
+    color: white;
 }

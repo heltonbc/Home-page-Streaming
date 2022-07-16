@@ -3,10 +3,10 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import "./App.css";
-import datafilms from "./components/data.js";
+import "../App.css";
+import datafilms from "../components/data";
 
-function App() {
+function Action() {
     const settings = {
         dots: false,
         infinite: false,
@@ -41,7 +41,8 @@ function App() {
     };
 
     return (
-        <div className="App">
+        <div className="Action">
+            <h4 className="title-category">Filmes de Ação</h4>
             <Slider {...settings}>
                 {datafilms.map(item => (
                     <div className="card">
@@ -56,4 +57,4 @@ function App() {
     );
 }
 
-export default App;
+export default Action;
