@@ -2,6 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import capa from "../assets/capa.jpeg";
 
 import "../App.css";
 import datafilms from "../components/data";
@@ -42,7 +43,8 @@ function Action() {
 
     return (
         <div className="Action">
-            <h4 className="title-category">Filmes de Ação</h4>
+            <img src={capa} alt="capa" className="w-100" />
+            <h5 className="title-category">Filmes de Ação</h5>
             <Slider {...settings}>
                 {datafilms.map(item => (
                     <div className="card">

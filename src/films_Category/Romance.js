@@ -42,7 +42,7 @@ function Romance() {
 
     return (
         <div className="Romance">
-            <h4 className="title-category">Filmes de Romance</h4>
+            <h5 className="title-category">Filmes de Romance</h5>
             <Slider {...settings}>
                 {datafilms.map(item => (
                     <div className="card">

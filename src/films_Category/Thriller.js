@@ -42,7 +42,7 @@ function Thriller() {
 
     return (
         <div className="Thriller">
-            <h4 className="title-category">Filmes de Suspense</h4>
+            <h5 className="title-category">Filmes de Suspense</h5>
             <Slider {...settings}>
                 {datafilms.map(item => (
                     <div className="card">

@@ -4,9 +4,9 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import "../App.css";
-import datafilms from "../components/data";
+import Inhigh from "../components/data";
 
-function OnHigh() {
+function InHigh() {
     const settings = {
         dots: false,
         infinite: false,
@@ -41,10 +41,10 @@ function OnHigh() {
     };
 
     return (
-        <div className="OnHigh">
+        <div className="InHigh">
             <h4 className="title-category">Em Alta</h4>
             <Slider {...settings}>
-                {datafilms.map(item => (
+                {Inhigh.map(item => (
                     <div className="card">
                         <div className="card-top">
                             <img src={item.img} alt={item.exemple} />
@@ -57,4 +57,4 @@ function OnHigh() {
     );
 }
 
-export default OnHigh;
+export default InHigh;

@@ -7,9 +7,13 @@
 }
 
 .App {
-    width: 90%;
     margin: 0 auto;
     margin-top: 50px;
+}
+
+.second-section {
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 .slick-slide > div {

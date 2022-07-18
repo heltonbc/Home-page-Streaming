@@ -42,7 +42,7 @@ function Comedy() {
 
     return (
         <div className="Comedy">
-            <h4 className="title-category">Filmes de Comédia</h4>
+            <h5 className="title-category">Filmes de Comédia</h5>
             <Slider {...settings}>
                 {datafilms.map(item => (
                     <div className="card">

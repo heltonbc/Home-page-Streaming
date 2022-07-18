@@ -42,7 +42,7 @@ function Horror() {
 
     return (
         <div className="Horror">
-            <h4 className="title-category">Filmes de Terror</h4>
+            <h5 className="title-category">Filmes de Terror</h5>
             <Slider {...settings}>
                 {datafilms.map(item => (
                     <div className="card">
