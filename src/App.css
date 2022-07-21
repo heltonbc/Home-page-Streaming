@@ -43,3 +43,30 @@ div.card-top > img {
 .title-category {
     color: white;
 }
+
+.hero {
+    background-image: url("./assets/capa1.jpeg");
+    background-size: cover;
+    background-position: center top;
+    border-radius: 0;
+    height: 600px;
+}
+
+.size-card {
+    width: auto;
+    height: auto;
+    background-color: #000;
+}
+
+.btn-more {
+    background-color: rgba(109, 109, 110, 0.7) !important;
+    color: white !important;
+}
+.btn-primary {
+    border-color: white !important;
+}
+
+.objectx {
+    width: 100% !important;
+    height: auto !important;
+}

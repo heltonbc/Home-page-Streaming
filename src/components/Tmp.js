@@ -94,3 +94,21 @@ const Dashboard = ({ className = false, name, account }) => {
 };
 
 export default Dashboard;
+
+<Card className="bg-dark text-white w-100">
+    <Card.Img src={capa1} alt="Capa" />
+
+    <Card.ImgOverlay className="row">
+        <Col xs={6} lg={4} className="col align-self-end">
+            <Card.Title>O PROJETO ADAM</Card.Title>
+            <Card.Text>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit veniam sit nemo,
+                explicabo at placeat.
+            </Card.Text>
+            <Button className="m-2" variant="light">
+                Assistir
+            </Button>
+            <Button variant="outline-light">Saiba Mais</Button>
+        </Col>
+    </Card.ImgOverlay>
+</Card>;
