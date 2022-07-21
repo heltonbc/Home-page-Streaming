@@ -54,61 +54,61 @@ function InHigh() {
     const inhighMovies = [
         {
             id: 1,
-            title: "Nome do Filme",
+            title: "blackMirror",
             img: blackMirror,
         },
 
         {
             id: 2,
-            title: "Nome do Filme",
+            title: "peakBlinders",
             img: peakBlinders,
         },
 
         {
             id: 3,
-            title: "Nome do Filme",
+            title: "aListaNegra",
             img: aListaNegra,
         },
 
         {
             id: 4,
-            title: "Nome do Filme",
+            title: "dark",
             img: dark,
         },
 
         {
             id: 5,
-            title: "Nome do Filme",
+            title: "gotham",
             img: gotham,
         },
 
         {
             id: 6,
-            title: "Nome do Filme",
+            title: "ilhaDoMedo",
             img: ilhaDoMedo,
         },
 
         {
             id: 7,
-            title: "Nome do Filme",
+            title: "laCasadePapel",
             img: laCasadePapel,
         },
 
         {
             id: 8,
-            title: "Nome do Filme",
+            title: "strangerThings",
             img: strangerThings,
         },
 
         {
             id: 9,
-            title: "Nome do Filme",
+            title: "suits",
             img: suits,
         },
 
         {
             id: 10,
-            title: "Nome do Filme",
+            title: "vikings",
             img: vikings,
         },
     ];
