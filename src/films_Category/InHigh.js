@@ -123,7 +123,7 @@ function InHigh() {
                         <Card.Title>O PROJETO ADAM</Card.Title>
                         <Card.Text>
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit
-                            veniam sit nemo, explicabo at placeat.
+                            veniam sit nemo, explicabo at placeat dolor.
                         </Card.Text>
                         <Button className="m-2" variant="light">
                             Assistir
