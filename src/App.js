@@ -1,6 +1,7 @@
 import React from "react";
 import NavComponents from "./components/NavComponents";
 
+import InHigh from "./films_Category/InHigh";
 import Action from "./films_Category/Action";
 import Comedy from "./films_Category/Comedy";
 import Horror from "./films_Category/Horror";
@@ -15,6 +16,7 @@ const App = () => {
         <>
             <NavComponents />
             <div className="second-section">
+                <InHigh />
                 <Action />
                 <Comedy />
                 <Horror />
