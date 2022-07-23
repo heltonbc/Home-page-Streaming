@@ -98,6 +98,31 @@ function Comedy() {
             title: "Nome do Filme",
             img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUpjL8NCcsZ4nnCv4GXorENz9YLaqkoJk9JRoY6UYsV7Hfeu3yFNif6HEodaXZ6nggiyWc1tRWhssZvZgQA8xol0Sn871354hFk.webp?r=cf3",
         },
+        {
+            id: 11,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTGCyoHMXmG4ykk1AvRAt_Uo8FogZQ8zejQkihUR7sQ3uaXcFJS2vCkQd6t9Hakn_Ick-omH4v9cJWMx434npgDegUCT216-DplOjx0OlqdO9KE-08ydZpYKI_LkTQa9pbvbU6rvNkSzm0RdG-ofwJLV0Vo5UET3gogj0qwRUuMORgnQMXpymIP0JvDng1Y.jpg?r=c9e",
+        },
+        {
+            id: 12,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSckj99_0NWdI6p9h0lre0k5cV4i0GzW1VlwdG-SZ_bo_iI3JYNHDE6uJF__0uO4wEsBBTbaQlkFsQv803TCXLx5e4oNdq0k9Rk.webp?r=9cc",
+        },
+        {
+            id: 13,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfk0wbXNNE48ptf3tdddF3yqWjjB6JWPXDqrczX6F62yjqS3HeJQOgV5jKca5FaqGMN3WKZjjTzYVhaK9fy0NvHf8yy6CHcu3nB55fKKbC3skc_rPJWbNQvQCDuhHvXCLa_3.jpg?r=cf3",
+        },
+        {
+            id: 14,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWhtUuymgS4SlzcW_27VZbPc20_Af5IPVpHgD9gu2UkvaNIe-cFHMvVo3vCjRzzXOk-QuJZ-QE7AC7Yd-VQQCNkSPe8HpfHl18FzQF-3_TUwvxcrKfSjgcEMqP_tgi0Ir9od.jpg?r=b9c",
+        },
+        {
+            id: 15,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdQM7hlbOe5RnFqWRc7cYRgST1bol8kRyP6KLwR-keMC59dHUTc6wCNtdlTf9Eup-b163lfrbPLiITRKWoxPD3ZrihOGg6gJ_jw.webp?r=4ff",
+        },
     ];
 
     return (
