@@ -84,7 +84,7 @@ function Comedy() {
         {
             id: 8,
             title: "Nome do Filme",
-            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYdKZEjn5WdDpyAYLxIz_VMAVoYErpypZeXdU15OcHEfo7zn0BWOcWbbf5jMqoSR7Zl722M4q34WfW_k3GLv3-Q8fL0x2usGD0Q.webp?r=1ec",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABX54_-Pt9KkHzP-hDBY4n6faEW8O7yuoNObtz7BCwcoX0L47Aau1Kn4mi_Qbah1UKZ3sy4LQ7mcZOl0Q2QCEXT6CUmYOkqV3Qwo.webp?r=6a4",
         },
 
         {
