@@ -98,6 +98,36 @@ function Thriller() {
             title: "Nome do Filme",
             img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVsNdw0QmgMsz3tUGT62hGV4sI0ZfUJunNBRZO2btgf1Litlu40oisn4697st-NgxmvsICqWMNsXnH7fUwhkj-fr61zmpEpobsjO3dK3yx_XopWiGmJY1uUtFd-0tuipEUyY.jpg?r=1e9",
         },
+
+        {
+            id: 11,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbSJx1dkV_YlBoQ79NoTdBRGdhMJoogNqZoQSDi2WOsFOy7lBulu5Or9L9Bu6H3RTidDKAvQPRBlE0BVhDkCcafRYOrYvrCK5dqWsZ3ttTUlqpGCP5GvhU9F1E0D2eCqK06_.jpg?r=09a",
+        },
+
+        {
+            id: 12,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ6WZbu30P9HZCCu-Dh6VUbM5OAxxr3sWI2ZyNoNln9IovnhLyv4pbXqtLZWItIeNaxwC8EWXcnS4qFIxo9Ofu-Cpv3TBSq-jL8lJl4MSHAmJNRmA0aSHljeF5qpI5ibbBaN.jpg?r=3db",
+        },
+
+        {
+            id: 13,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQoItJR9QvISZmJgYZEko-T4SPjDeNHGpAZjqLyYZiW6dtA4E2l7-a3nz57hti99dgUwXZFKlD8kk6cDcrOlo_gFJb6avppFofnOo_PdjCvwKkMud04gIfl_Gvzho_1SHXeN.jpg?r=f81",
+        },
+
+        {
+            id: 14,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe6W6cmhYkyxoDHJg2EqQxuB8r1Pwa5tBA1z4tnqQOQUoR8D_ASnX38HnH35m4I3a0CEyz6e9Uh0T-MTPR4E9AAZ_DDOIzrmdHc.webp?r=6ed",
+        },
+
+        {
+            id: 15,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRG0GXEeU22k41jrDcABoViWKsI7PI9iS5joX6z1UDvUsiQ35Ygd889KbKInqDRflqdg2lCUIxtEL3e-AWoM49JWKfN2-e-Hyvl6yfgCXe5rmtMw-SVVQjKKS6fOJ6e6baq7.jpg?r=2ff",
+        },
     ];
 
     return (
