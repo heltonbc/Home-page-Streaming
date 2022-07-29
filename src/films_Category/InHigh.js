@@ -111,13 +111,42 @@ function InHigh() {
             title: "vikings",
             img: vikings,
         },
+
+        {
+            id: 11,
+            title: "title",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABck6zqaWi_ou0fJnJDu8UHVcCw7GMAriCiM1TufhlRlE4VZqpC7goJ1iCUAfU86tJ9nfKw33eLmnJaeIwfj-XMqlH9AI8Amw3bs.webp?r=e7f",
+        },
+
+        {
+            id: 12,
+            title: "title",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaXw0jBqIc74UG4a_APHJ5cUhyNAs5rY-HuVVPx7lf2TN5KxmcqFUxIDlngnEHVqjktN-xL5T5PhwcQgOvM25qvNASwe9B0BQ_Q.webp?r=d55",
+        },
+
+        {
+            id: 13,
+            title: "title",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYKRHppk6L6cbK6oEFcn2iafk1IFQvAmiZKiTv648Ib6T3skkRO2TSfkkhS1W_0NccgDIEVhGfNgqCFfeULNn4u9XjsGzX5au00.webp?r=115",
+        },
+
+        {
+            id: 14,
+            title: "title",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRKQQVZRn9KEolHSlZWHRWc9dtDHBTacD9SNHJqSjIM0raVWD35lZG-NvG2MzvHKb7S6aZOvX0KCsbu2goAXmTmaxQNo_GznlbQ.webp?r=cb1",
+        },
+
+        {
+            id: 15,
+            title: "title",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbMEFO4acTksfN-gHwrQlPLnYKysD20fOf5ISf2dQjlb59c3zrRRzZwoLZQaYxc6h1y9tdzyU66ouW5a5J2avSPQghQwpXfDSz0.webp?r=697",
+        },
     ];
 
     return (
         <div className="InHigh">
             <Card className="bg-dark text-white w-100">
                 <Card.Img src={capa1} alt="Capa" />
-
                 <Card.ImgOverlay className="row">
                     <Col xs={6} lg={4} className="col align-self-end">
                         <Card.Title>O PROJETO ADAM</Card.Title>
