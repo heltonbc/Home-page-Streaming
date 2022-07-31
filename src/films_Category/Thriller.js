@@ -126,7 +126,7 @@ function Thriller() {
         {
             id: 15,
             title: "Nome do Filme",
-            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRG0GXEeU22k41jrDcABoViWKsI7PI9iS5joX6z1UDvUsiQ35Ygd889KbKInqDRflqdg2lCUIxtEL3e-AWoM49JWKfN2-e-Hyvl6yfgCXe5rmtMw-SVVQjKKS6fOJ6e6baq7.jpg?r=2ff",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWDC2OzdZb8-XPRmWE4pWxRXxzvX64EeI7D90ZGBN8-jw0IsgcKBC133fhbnKf2Ah1XN3uRsvm9UAWPhoxMo5Nm_9ZFYmJgZEV4TbxDuNGxl9_oZb6fxgFdO0jSJK9-0NhtY.jpg?r=bf4",
         },
     ];
 
