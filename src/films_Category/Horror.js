@@ -98,6 +98,36 @@ function Horror() {
             title: "Nome do Filme",
             img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUvcsI_ccRUvy2OsSApmdFzGOZwIb35tAAjuXvuT-FWvdVkIazagE8rct5-v4QzjuRBAvIC6EV-4FVFaDbH_gapIMOJ4JIDFuFo.webp?r=efb",
         },
+
+        {
+            id: 11,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeSjLfGJDH-TM3fj1yCq5YrmuXT7RX5U9LXTEq8kbNtow1zA5qcAbMWF2unRhXWqtXGIalFBVU1sK-DYeRwiW_Nv5Eb334yTxCk.webp?r=d90",
+        },
+
+        {
+            id: 12,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR72vpI3XEGM5kCjhJ6ozA4SbxeypfLpuSONfajO_Wgnmpc7CAPhhdyAe195RGH9t-Md2TOaKt1lJZOvR_f2CsiPmMR5pI9qOhU.webp?r=f29",
+        },
+
+        {
+            id: 13,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeadINLpExKO7vYugF795wyu29_m_AHa5q6-Ig_cJrwJGcOO7yqHo5NC-GNcGOSachjzMBeLp2kJk7eUqjZ1Jfwpy0jYBHYGDSc.webp?r=94c",
+        },
+
+        {
+            id: 14,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ1qtszLZtGG_OM_O6JO2mvSeKFjDaBAj16J2X3z2vV9FASNP0dcxH843hE7SG7NY6OK_eW2VVGQ35h6-9YE6jrLo4SVvbAJA18.webp?r=dbe",
+        },
+
+        {
+            id: 15,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW3oT5ImNoTxUmotvU-FGYcnqpjtBZ1o7vtarDRNLNEgnPQlYdfH8snH1e36Qkj-FHOTUtC85xTYXVakMeX4Z4QgVI47_BsDsz0.webp?r=7fc",
+        },
     ];
 
     return (

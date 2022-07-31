@@ -98,6 +98,36 @@ function Romance() {
             title: "Nome do Filme",
             img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABT-2_LJGJJzkSYxjpn2y55dKIXcK4IVnX_TAkC2bXqKo3gC7VTV98OM0QWIEqQf0QPA2v5OMt8N_mbsBac8wh2gNx4RQuOZo84w.webp?r=af9",
         },
+
+        {
+            id: 11,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbTvPZqGtwx0wnGkdA-etmOj-8qmGKmVu1IuIHHOKqMwPUZ-c0WvMTHiXIgQWOyuDBzqbFQ77U402ccJZ1ANUISyM2RSxASyRtSzzlk9VTeD6I4Vq-X3i5AuCD1qE3_qBr2Sm5uzpjyfxeEOsBSYOHzn4arS4JOHWDaNWvsao9nBqV1DMRuo6hgXuaBTaO4.jpg?r=0f8",
+        },
+
+        {
+            id: 12,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYGHmOnhy_-1XGuNiyeOSuGzTpxoian8YI-Ldg5AKNRBKfNwGNzE9nbAF07mzYQggKY3X02EoS_GVH4KbSwlKVxQJdkW2clCO5BMeGjIl4t-hSjumv_eaT5j7Ufmf-82QIte.jpg?r=0e6",
+        },
+
+        {
+            id: 13,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABV_BjpLF5-zEl1OSGjHPocKE3Oeo-478TzriBMeqIu4yG838BNFwS7DMq1QLNk7TMOm6ZpZNRK2F4HL5NSkf3mt4VXfmwqbgeRqz7txsIyn8a-P54oE4Yu9SFeid0tcR_s6X.jpg?r=84a",
+        },
+
+        {
+            id: 14,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdxBJd5IA0wmAcNaZ8dn8fuU0zH0VXOzAPjeZxCfdZNC4yZpkxQmTJ86uuB2MawXBvrk3tpLqsR7A637zwuuMnDgtBmuBfsogAo.webp?r=221",
+        },
+
+        {
+            id: 15,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcJ-Qq6adLXV-J4W9ixnui_8mEI4i-tzXnipMwPE6CcRuKkPTHLXU-KfjpeEYLOYjzI5GQx_XO6tN0NgztJo2PxA8iNXrS2rflFnPBuw4IZRBzd4dAXeX6CtdQvkS8bkyMmb.jpg?r=dfa",
+        },
     ];
 
     return (

@@ -98,6 +98,36 @@ function Action() {
             title: "Nome do Filme",
             img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABd4ejtiaEzzmxuOqWrFL-K3GNvb6igFXd_fIwq4OLfkCbx8vo1QAlkCLqOFrGf3YbnPF0CKqfQ4-kPCdwLYwEKXm1tqwQEEXBDy9s9Jf-fNz99Gn4oQaNRHFIx6PlPslniHl.jpg?r=274",
         },
+
+        {
+            id: 11,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdcpiZ5DQ3Wf60vrDksFA6tBZb2XsSFBeZK-pskhIsyBLfTp0UIDs348PgIy9AZmQ1dIapCpwFMifwu_ehP-1xqcIc_99tW_BwQ.webp?r=554",
+        },
+
+        {
+            id: 12,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfOFREM3KSeRRnpwSx15vjmyPRCppz3fZxu2G0tDWyDEMH79E4eJ0glvitudi6IqarkTN-K2UCjCjTYWjCn3cSqkVD_kkgNr2s2qsZp1-vwKt-nA6tvcWW_ysP_AjOaxAGcZ.jpg?r=752",
+        },
+
+        {
+            id: 13,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTeRXSOT6IIcXDDSTPkwq4KBHxXcjUXM84NQdDsgLJKUWH6whFoyF_3IC_gle_wgm6zsQSX-paHCLUi_PHppv4xBu5eWRgnImag.webp?r=b05",
+        },
+
+        {
+            id: 14,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfapd-5b2r4dh_C5S4-LAV5O4af7-QIzbmwr5S1DsMet6u8A61hnLnr-3iIaiqkwpd1sIjTmVeZpPYt7ejWi2YpnpSNYXfClJqI.webp?r=2b1",
+        },
+
+        {
+            id: 15,
+            title: "Nome do Filme",
+            img: "https://occ-0-642-559.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSsT2TRrDHKLY_NBxoFK94hMIESj2iBKDuJAwiiq1DOtn_rB3KVmgP3rX1hgbYQLuXbCcFifENcdtSzOBsc4_6-7yWyHcoa33wTiNyOfmGKm6ploqVpE_BVACQwZgl012RG_.jpg?r=c44",
+        },
     ];
 
     return (
