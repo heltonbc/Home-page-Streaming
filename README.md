@@ -6,9 +6,6 @@ The main goal was achieved, which was to learn how to use arrays and other compo
 
 In fact, I managed to consolidate more knowledge in Arrays, React, bootstrap, slick-carousel, yarn, git, github. I managed to catalog some improvement points and among them is the improvement in the use of arrays.
 
-<img src="https://github.com/heltonbc/Home-page-Streaming/blob/main/src/assets/view-project.png"/>
-
-
 ##pt-BR
 #Sobre este projeto
 
@@ -19,3 +16,7 @@ O objetivo principal foi alcançado, que era aprender a usar arrays e outros com
 Na verdade, consegui consolidar mais conhecimento em Arrays, React, bootstrap, slick-carousel, yarn, git, github. Consegui catalogar alguns pontos de melhoria e entre eles está a melhoria no uso de arrays.
 
 <img src="https://github.com/heltonbc/Home-page-Streaming/blob/main/src/assets/view-project.png"/>
+
+
+
+
