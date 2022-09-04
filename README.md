@@ -18,5 +18,34 @@ Na verdade, consegui consolidar mais conhecimento em Arrays, React, bootstrap, s
 <img src="https://github.com/heltonbc/Home-page-Streaming/blob/main/src/assets/view-project.png"/>
 
 
+## How to work with the repository / Como trabalhar com o repositório
 
+### Clone the project / Clone o projeto
+
+```
+git clone https://github.com/heltonbc/Home-page-Streaming.git
+```
+
+### Install the project dependencies / Instalar as dependências do projeto
+
+```
+Yarn Add 👇
+    "bootstrap": "^5.1.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+```
+
+### Start the project / Iniciar o projeto
+
+```
+yarn start
+```
+
+### Questions? / Perguntas
+
+Send me an email at [heltondeveloper01@gmail.com](mailto:heltondeveloper01@gmail.com)
 
