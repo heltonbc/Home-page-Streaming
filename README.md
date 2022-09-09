@@ -9,6 +9,7 @@ O objetivo principal foi alcançado, que era aprender a usar arrays e outros com
 Na verdade, consegui consolidar mais conhecimento em Arrays, React, bootstrap, slick-carousel, yarn, git, github. Consegui catalogar alguns pontos de melhoria e entre eles está a melhoria no uso de arrays.
 
 ##EN-US
+
 ##This project was created using JavaScript, React.js, Bootstrap, Css, Yarn.
 The challenge for this project was to develop skills in the use of arrays, carousel, Slick Carousel, Card and among other necessary resources offered by the framework with some adjustments by css.
 The main goal was achieved, which was to learn how to use arrays and other components, as well as adjust their placement.
