@@ -31,7 +31,7 @@ git clone https://github.com/heltonbc/Home-page-Streaming.git
 ### Install the project dependencies / Instalar as dependências do projeto
 
 ```
-Yarn Add 👇
+Yarn Add dependencies 👇
     "bootstrap": "^5.1.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
